@@ -1,4 +1,5 @@
 yondel
 =======
 
-an app to manage to read books in parallel
+An app to manage reading books in parallel.
+Go easy on us. We're beginners.
